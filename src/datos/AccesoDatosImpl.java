@@ -12,7 +12,7 @@ import java.util.*;
 
 /**
  *
- * @author Antonio
+ * @author carrillo
  */
 public class AccesoDatosImpl implements AccesoDatos {
     /** *  @param nombreArchivo

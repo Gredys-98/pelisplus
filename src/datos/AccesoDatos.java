@@ -11,7 +11,8 @@ import java.util.*;
 
 /**
  *
- * @author Antonio
+ * @author carrillo
+ 
  */
 public interface AccesoDatos {
     boolean existe(String nombreArchivo) throws AccesoDatosEx;

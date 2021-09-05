@@ -7,7 +7,7 @@ package dominio;
 
 /**
  *
- * @author Antonio
+ * @author  carrillo
  */
 public class MdEmpleado {
     private final String nombre;

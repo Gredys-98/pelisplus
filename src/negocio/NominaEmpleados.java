@@ -7,7 +7,7 @@ package negocio;
 
 /**
  *
- * @author Antonio
+ * @author  carrillo
  */
 public interface NominaEmpleados {
     public void iniciarArchivo(String nombreArchivo);

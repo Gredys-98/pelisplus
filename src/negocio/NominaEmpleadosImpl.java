@@ -12,7 +12,7 @@ import java.util.*;
 
 /**
  *
- * @author Antonio
+ * @author  carrillo
  */
 public class NominaEmpleadosImpl implements NominaEmpleados{
 

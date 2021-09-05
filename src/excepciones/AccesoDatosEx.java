@@ -7,7 +7,7 @@ package excepciones;
 
 /**
  *
- * @author Antonio
+ * @author carrillo
  */
 public class AccesoDatosEx extends Exception{
     String mensaje;
